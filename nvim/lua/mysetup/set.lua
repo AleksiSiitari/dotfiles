@@ -32,5 +32,5 @@ vim.opt.updatetime = 50
 -- Show vertical line for col
 -- vim.opt.colorcolumn = "120"
 
-vim.cmd("colorscheme torte")
+vim.cmd("colorscheme slate")
 
