@@ -6,10 +6,6 @@
     - Tab to Esc
     - fn/globe key to Ctrl
 
-- zshrc
-    - alias vim="neovim"
-    - git branch after path in prompt
-
 ## Software
 
 ### Brave
@@ -30,17 +26,23 @@ Plugins:
 brew install iterm2
 ```
 
-2. Clone .zshrc 
+2. Clone .zshrc
 
+### fzf
 
-### neovim - nvchad
-1. https://nvchad.com/docs/quickstart/install
+https://github.com/junegunn/fzf
 
-2. Clone 
+```
+brew install fzf
+```
+
+### neovim
+
+1. Clone nvim to .config
 
 ### yabai + skhd
 
-1. Install 
+1. Install
 ```
 brew install koekeishiya/formulae/yabai
 ```
